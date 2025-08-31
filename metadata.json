@@ -1,0 +1,5 @@
+{
+  "name": "akaar.v1",
+  "description": "An application that allows users to upload a photo of themselves and a photo of an outfit to see a virtual representation of them wearing it.",
+  "requestFramePermissions": []
+}
